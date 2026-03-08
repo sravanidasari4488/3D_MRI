@@ -1,0 +1,9 @@
+*.h5
+*.nii.gz
+*.npz
+patches/
+npz_files/
+segmented_volumes/
+brain_tumor_*.html
+hybrid_prediction_*.nii.gz
+__pycache__/
